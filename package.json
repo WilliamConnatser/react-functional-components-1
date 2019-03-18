@@ -1,0 +1,12 @@
+{
+  "name": "react-functional-components-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Connatser",
+  "license": "MIT"
+}
